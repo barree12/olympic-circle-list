@@ -1,24 +1,19 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Camelot RoundTable List",
+  "title": "Olympic Circle List",
   "definitions": {
     "TagIdentifier": {
       "type": "string",
       "description": "The unique identifier of a tag",
       "minLength": 1,
       "maxLength": 16,
-      "examples": [
-        "compound",
-        "stablecoin"
-      ]
+      "examples": ["compound", "stablecoin"]
     },
     "TokenAddress": {
       "type": "string",
       "description": "The checksummed address of the token on the specified chain ID",
       "pattern": "^0x[a-fA-F0-9]{40}$",
-      "examples": [
-        "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
-      ]
+      "examples": ["0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"]
     },
     "ProtocolInfo": {
       "type": "object",
@@ -29,28 +24,21 @@
           "type": "integer",
           "description": "The chain ID of the network where this token is deployed",
           "minimum": 1,
-          "examples": [
-            1,
-            42161
-          ]
+          "examples": [1, 42161]
         },
         "id": {
           "type": "string",
           "description": "The name of the protocol",
           "minLength": 2,
           "maxLength": 32,
-          "examples": [
-            "Camelot DEX"
-          ]
+          "examples": ["Hercules DEX"]
         },
         "name": {
           "type": "string",
           "description": "The name of the protocol",
           "minLength": 2,
           "maxLength": 32,
-          "examples": [
-            "Camelot DEX"
-          ]
+          "examples": ["Hercules DEX"]
         },
         "logo": {
           "type": "string",
@@ -64,18 +52,14 @@
           "type": "string",
           "description": "A URI to the protocol cover asset; suggest SVG or PNG of size 650x200",
           "format": "uri-template",
-          "examples": [
-            "https://camelot.exchange/img/knight-hero.svg"
-          ]
+          "examples": ["https://camelot.exchange/img/knight-hero.svg"]
         },
         "tagline": {
           "type": "string",
           "description": "One short catchphrase or sentence summarizing the protocol",
           "minLength": 0,
           "maxLength": 128,
-          "examples": [
-            "Camelot DEX"
-          ]
+          "examples": ["Metis Champion DEX"]
         },
         "tags": {
           "type": "array",
@@ -84,28 +68,21 @@
             "$ref": "#/definitions/TagIdentifier"
           },
           "maxItems": 10,
-          "examples": [
-            "stablecoin",
-            "compound"
-          ]
+          "examples": ["stablecoin", "compound"]
         },
         "description": {
           "type": "string",
           "description": "General description of the protocol",
           "minLength": 0,
           "maxLength": 600,
-          "examples": [
-            "Camelot DEX"
-          ]
+          "examples": ["Hercules DEX"]
         },
         "decimals": {
           "type": "integer",
           "description": "The number of decimals for the token balance",
           "minimum": 0,
           "maximum": 255,
-          "examples": [
-            18
-          ]
+          "examples": [18]
         },
         "tokens": {
           "type": "array",
@@ -120,65 +97,49 @@
           "type": "string",
           "description": "A URI to the protocol's twitter page",
           "format": "uri-template",
-          "examples": [
-            "https://twitter.com/camelotdex"
-          ]
+          "examples": ["https://twitter.com/camelotdex"]
         },
         "discord": {
           "type": "string",
           "description": "A URI to the protocol's twitter page",
           "format": "uri-template",
-          "examples": [
-            "https://discord.com/invite/camelotdex"
-          ]
+          "examples": ["https://discord.com/invite/camelotdex"]
         },
         "docs": {
           "type": "string",
           "description": "A URI to the protocol's twitter page",
           "format": "uri-template",
-          "examples": [
-            "https://docs.camelot.exchange"
-          ]
+          "examples": ["https://docs.camelot.exchange"]
         },
         "blog": {
           "type": "string",
           "description": "A URI to the protocol's twitter page",
           "format": "uri-template",
-          "examples": [
-            "https://camelotdex.medium.com"
-          ]
+          "examples": ["https://camelotdex.medium.com"]
         },
         "github": {
           "type": "string",
           "description": "A URI to the protocol's twitter page",
           "format": "uri-template",
-          "examples": [
-            "https://github.com/CamelotLabs"
-          ]
+          "examples": ["https://github.com/CamelotLabs"]
         },
         "telegram": {
           "type": "string",
           "description": "A URI to the protocol's twitter page",
           "format": "uri-template",
-          "examples": [
-            "https://t.me/camelotdex"
-          ]
+          "examples": ["https://t.me/camelotdex"]
         },
         "defillama": {
           "type": "string",
           "description": "A URI to the protocol's twitter page",
           "format": "uri-template",
-          "examples": [
-            "https://defillama.com/protocol/camelot"
-          ]
+          "examples": ["https://defillama.com/protocol/camelot"]
         },
         "website": {
           "type": "string",
           "description": "A URI to the protocol's twitter page",
           "format": "uri-template",
-          "examples": [
-            "https://app.camelot.exchange"
-          ]
+          "examples": ["https://app.camelot.exchange"]
         }
       },
       "required": [
@@ -217,9 +178,5 @@
       "maxItems": 10000
     }
   },
-  "required": [
-    "name",
-    "timestamp",
-    "protocols"
-  ]
+  "required": ["name", "timestamp", "protocols"]
 }

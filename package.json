@@ -1,7 +1,7 @@
 {
-  "name": "camelot-roundtable-list",
+  "name": "hercules-olympic-circle-list",
   "version": "1.0.0",
-  "author": "Camelot Labs",
+  "author": "HerculesDeFiLabs",
   "license": "GPLV3",
   "scripts": {
     "test": "mocha",
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CamelotLabs/roundtable-list.git"
+    "url": "git+https://github.com/HerculesDeFiLabs/olympic-circle-list"
   },
   "devDependencies": {
     "@ethersproject/address": "^5.7.0",
