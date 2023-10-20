@@ -24,7 +24,7 @@
           "type": "integer",
           "description": "The chain ID of the network where this token is deployed",
           "minimum": 1,
-          "examples": [1, 42161]
+          "examples": [1088]
         },
         "id": {
           "type": "string",
@@ -97,49 +97,49 @@
           "type": "string",
           "description": "A URI to the protocol's twitter page",
           "format": "uri-template",
-          "examples": ["https://twitter.com/camelotdex"]
+          "examples": ["https://twitter.com/TheHerculesDEX"]
         },
         "discord": {
           "type": "string",
-          "description": "A URI to the protocol's twitter page",
+          "description": "A URI to the protocol's discord server",
           "format": "uri-template",
-          "examples": ["https://discord.com/invite/camelotdex"]
+          "examples": ["https://discord.gg/J3MNwKKaqt"]
         },
         "docs": {
           "type": "string",
-          "description": "A URI to the protocol's twitter page",
+          "description": "A URI to the protocol's docs page",
           "format": "uri-template",
-          "examples": ["https://docs.camelot.exchange"]
+          "examples": ["https://docs.hercules.exchange"]
         },
         "blog": {
           "type": "string",
-          "description": "A URI to the protocol's twitter page",
+          "description": "A URI to the protocol's blog page",
           "format": "uri-template",
-          "examples": ["https://camelotdex.medium.com"]
+          "examples": ["https://herculesdex.medium.com/"]
         },
         "github": {
           "type": "string",
-          "description": "A URI to the protocol's twitter page",
+          "description": "A URI to the protocol's github page",
           "format": "uri-template",
-          "examples": ["https://github.com/CamelotLabs"]
+          "examples": ["https://github.com/HerculesDeFiLabs"]
         },
         "telegram": {
           "type": "string",
-          "description": "A URI to the protocol's twitter page",
+          "description": "A URI to the protocol's telegram channel",
           "format": "uri-template",
-          "examples": ["https://t.me/camelotdex"]
+          "examples": ["https://t.me/herculesdex"]
         },
         "defillama": {
           "type": "string",
-          "description": "A URI to the protocol's twitter page",
+          "description": "A URI to the protocol's defillama page",
           "format": "uri-template",
           "examples": ["https://defillama.com/protocol/camelot"]
         },
         "website": {
           "type": "string",
-          "description": "A URI to the protocol's twitter page",
+          "description": "A URI to the protocol's website page",
           "format": "uri-template",
-          "examples": ["https://app.camelot.exchange"]
+          "examples": ["https://app.hercules.exchange"]
         }
       },
       "required": [
