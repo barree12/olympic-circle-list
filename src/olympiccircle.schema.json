@@ -52,7 +52,9 @@
           "type": "string",
           "description": "A URI to the protocol cover asset; suggest SVG or PNG of size 650x200",
           "format": "uri-template",
-          "examples": ["https://hercules.exchange/img/herculesdex-cover.svg"]
+          "examples": [
+            "https://uploads-ssl.webflow.com/646ceefa23ba35bc3d3398fc/6536d25aa275df06fc9306b8_Hercules%20SVG.svg"
+          ]
         },
         "tagline": {
           "type": "string",
