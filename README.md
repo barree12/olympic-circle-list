@@ -34,5 +34,5 @@ To add your protocol to the Olympic Circle list, you should create your entry an
 
 ### Disclaimer
 
-Note filing an issue does not guarantee addition to the RoundTable list, 
+Note filing an issue does not guarantee addition to the Olympic Circle list, 
 and is reserved to already approved members only.
