@@ -1,1 +1,28 @@
-[]
+[
+    {
+        "chainId": 1088,
+        "id": "Athena",
+        "name": "Athena",
+        "logo": "https://www.athenafinance.io/athena_square.svg",
+        "cover": "https://www.athenafinance.io/athena_banner.svg",
+        "tagline": "Metis Top Yield Booster",
+        "tags": [
+            "yield farming",
+            "defi",
+            "aggregator"
+        ],
+        "description": "Athena Finance is a protocol that synergistically integrates with the Hummus Exchange on METIS. Athena enables users to generate boosted yields on their Hummus deposits, even if they don’t own any HUM and veHUM. ",
+        "tokens": [
+            "0xA4eE142e34d0676Edc2b760DD0016003D99a4ceC",
+            "0x4FeBd4Ea737A0aE94Dd56E754e9B7A83E1C459e9"
+        ],
+        "twitter": "https://twitter.com/Athena_DeFi_",
+        "discord": "https://discord.com/invite/tDvyUQVZsJ",
+        "docs": "https://docs.athenafinance.io/",
+        "blog": "https://athenafinance.medium.com/",
+        "github": "",
+        "telegram": "https://t.me/Athena_Finance",
+        "defillama": "https://defillama.com/protocol/athena-finance",
+        "website": "https://www.athenafinance.io/"
+    }
+]
