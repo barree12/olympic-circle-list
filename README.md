@@ -4,7 +4,7 @@ This GitHub repo contains the protocols list of Olympic Circle members.
 
 ## Adding your protocol
 
-To add your protocol to the Olympic Circle list, you should create your entry and submit a PR with it. 
+To add your protocol to the Olympic Circle list, you should create your entry and submit a PR with it.
 
 **1. Fork this repo**
 
@@ -34,5 +34,5 @@ To add your protocol to the Olympic Circle list, you should create your entry an
 
 ### Disclaimer
 
-Note filing an issue does not guarantee addition to the Olympic Circle list, 
+Note filing an issue does not guarantee addition to the Olympic Circle list,
 and is reserved to already approved members only.

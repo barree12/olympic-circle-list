@@ -5,10 +5,10 @@
   "license": "GPLV3",
   "scripts": {
     "test": "mocha",
-    "build": "mkdir -p build && node src/write.js > build/roundtable.json && cp _redirects build/"
+    "build": "mkdir -p build && node src/write.js > build/olympiccircle.json && cp _redirects build/"
   },
   "files": [
-    "build/roundtable.json"
+    "build/olympiccircle.json"
   ],
   "repository": {
     "type": "git",
