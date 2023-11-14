@@ -1,28 +1,46 @@
 [
-    {
-        "chainId": 1088,
-        "id": "Athena",
-        "name": "Athena",
-        "logo": "https://www.athenafinance.io/athena_square.svg",
-        "cover": "https://www.athenafinance.io/athena_banner.svg",
-        "tagline": "Metis Top Yield Booster",
-        "tags": [
-            "yield farming",
-            "defi",
-            "aggregator"
-        ],
-        "description": "Athena Finance is a protocol that synergistically integrates with the Hummus Exchange on METIS. Athena enables users to generate boosted yields on their Hummus deposits, even if they don’t own any HUM and veHUM. ",
-        "tokens": [
-            "0xA4eE142e34d0676Edc2b760DD0016003D99a4ceC",
-            "0x4FeBd4Ea737A0aE94Dd56E754e9B7A83E1C459e9"
-        ],
-        "twitter": "https://twitter.com/Athena_DeFi_",
-        "discord": "https://discord.com/invite/tDvyUQVZsJ",
-        "docs": "https://docs.athenafinance.io/",
-        "blog": "https://athenafinance.medium.com/",
-        "github": "",
-        "telegram": "https://t.me/Athena_Finance",
-        "defillama": "https://defillama.com/protocol/athena-finance",
-        "website": "https://www.athenafinance.io/"
-    }
+  {
+    "chainId": 1088,
+    "id": "Athena",
+    "name": "Athena",
+    "logo": "https://www.athenafinance.io/athena_square.svg",
+    "cover": "https://www.athenafinance.io/athena_banner.svg",
+    "tagline": "Metis Top Yield Booster",
+    "tags": ["yield farming", "defi", "aggregator"],
+    "description": "Athena Finance is a protocol that synergistically integrates with the Hummus Exchange on METIS. Athena enables users to generate boosted yields on their Hummus deposits, even if they don’t own any HUM and veHUM. ",
+    "tokens": [
+      "0xA4eE142e34d0676Edc2b760DD0016003D99a4ceC",
+      "0x4FeBd4Ea737A0aE94Dd56E754e9B7A83E1C459e9"
+    ],
+    "twitter": "https://twitter.com/Athena_DeFi_",
+    "discord": "https://discord.com/invite/tDvyUQVZsJ",
+    "docs": "https://docs.athenafinance.io/",
+    "blog": "https://athenafinance.medium.com/",
+    "github": "",
+    "telegram": "https://t.me/Athena_Finance",
+    "defillama": "https://defillama.com/protocol/athena-finance",
+    "website": "https://www.athenafinance.io/"
+  },
+  {
+    "chainId": 1088,
+    "id": "hummus",
+    "name": "Hummus",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/19625.png",
+    "cover": "https://app.hummus.exchange/images/hummus-cover.svg",
+    "tagline": "Hummus Exchange",
+    "tags": ["dex", "stableswap", "yield farming"],
+    "description": "The Hummus Exchange protocol is a next-gen single-side AMM (decentralized exchange) designed for exchanging stable cryptocurrencies (USDT, USDC, DAI) on the Metis blockchain. The protocol is implemented as a set of smart contracts; designed to prioritize censorship resistance, security, self-custody and maximum capital efficiency. Hummus features single-token provision, eliminating impermanent loss risk for liquidity providers, and ultra-low slippage for traders.",
+    "tokens": [
+      "0x4aAC94985cD83be30164DfE7e9AF7C054D7d2121",
+      "0x89351BEAA4AbbA563710864051a8C253E7b3E16d"
+    ],
+    "twitter": "https://twitter.com/hummusdefi",
+    "discord": "https://discord.gg/KZXNswFeZk",
+    "docs": "https://hummus-exchange.gitbook.io/hummus-exchange/",
+    "blog": "https://herculesdex.medium.com/",
+    "github": "https://github.com/Hummus-Defi",
+    "telegram": "https://t.me/hummusdefi",
+    "defillama": "https://defillama.com/protocol/hummus-exchange",
+    "website": "https://app.hummus.exchange"
+  }
 ]
