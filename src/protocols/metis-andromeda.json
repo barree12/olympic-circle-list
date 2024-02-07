@@ -47,7 +47,7 @@
     "chainId": 1088,
     "id": "AraFi",
     "name": "AraFi",
-    "logo": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/AraFi_tokenlogo_C_150x150px.svg",
+    "logo": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/AraFi_C_W.svg",
     "cover": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/arafi_banner.svg",
     "tagline": "Omnichain Governance Aggregator",
     "tags": ["omnichain", "governance", "aggregator"],
