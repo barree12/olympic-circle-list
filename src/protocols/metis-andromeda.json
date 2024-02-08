@@ -53,9 +53,7 @@
     "tags": ["omnichain", "governance", "aggregator"],
     "description": "AraFi is a sophisticated omnichain governance aggregator designed to optimize the potential returns and governance capabilities of DeFi stakeholders, promoting financial security, stability and scalability. The platform offers the opportunity to combine governance authority and maximize rewards through the liquid staking of locked/vote escrow tokens from various chains and protocols.",
     "tokens": [
-      "0x85b70D7e56BC8C4dDD7a5BB30E59b223DA383E34",
-      "0x82524ebF9e5e0D793B4Dd3E920Ab430aC94c5F3B",
-      "0xF37b66C2d84274949FB514079c8CE917157DEcaC"
+      "0x85b70D7e56BC8C4dDD7a5BB30E59b223DA383E34"
     ],
     "twitter": "https://x.com/AraFiEco",
     "discord": "https://discord.gg/685ZzRmB8s",
