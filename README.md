@@ -13,7 +13,7 @@ To add your protocol to the Olympic Circle list, you should create your entry an
 **3. Provide the following required information for your protocol.**
 
 - chainId (number)
-- id (string): must be unique, will be used as a slug on https://app.hercules.exchange/protocols/id
+- id (string): must be unique
 - logo (string): url, small format square img, will be used in the project list, svg preferred
 - cover (string): url, large format img, will be used on the main protocol page as a cover image, svg preferred
 - tagline (string): one short sentence
