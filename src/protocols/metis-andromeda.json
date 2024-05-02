@@ -6,7 +6,11 @@
     "logo": "https://www.athenafinance.io/athena_square.svg",
     "cover": "https://www.athenafinance.io/athena_banner.svg",
     "tagline": "Metis Top Yield Booster",
-    "tags": ["yield farming", "defi", "aggregator"],
+    "tags": [
+      "yield farming",
+      "defi",
+      "aggregator"
+    ],
     "description": "Athena Finance is a protocol that synergistically integrates with the Hummus Exchange on METIS. Athena enables users to generate boosted yields on their Hummus deposits, even if they don’t own any HUM and veHUM. ",
     "tokens": [
       "0xA4eE142e34d0676Edc2b760DD0016003D99a4ceC",
@@ -28,7 +32,11 @@
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/19625.png",
     "cover": "https://app.hummus.exchange/images/hummus-cover.svg",
     "tagline": "Hummus Exchange",
-    "tags": ["dex", "stableswap", "yield farming"],
+    "tags": [
+      "dex",
+      "stableswap",
+      "yield farming"
+    ],
     "description": "The Hummus Exchange protocol is a next-gen single-side AMM (decentralized exchange) designed for exchanging stable cryptocurrencies (USDT, USDC, DAI) on the Metis blockchain. The protocol is implemented as a set of smart contracts; designed to prioritize censorship resistance, security, self-custody and maximum capital efficiency. Hummus features single-token provision, eliminating impermanent loss risk for liquidity providers, and ultra-low slippage for traders.",
     "tokens": [
       "0x4aAC94985cD83be30164DfE7e9AF7C054D7d2121",
@@ -43,14 +51,18 @@
     "defillama": "https://defillama.com/protocol/hummus-exchange",
     "website": "https://app.hummus.exchange"
   },
-    {
+  {
     "chainId": 1088,
     "id": "AraFi",
     "name": "AraFi",
     "logo": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/AraFi_C_W.svg",
     "cover": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/arafi_banner.svg",
     "tagline": "Omnichain Governance Aggregator",
-    "tags": ["omnichain", "governance", "aggregator"],
+    "tags": [
+      "omnichain",
+      "governance",
+      "aggregator"
+    ],
     "description": "AraFi is a sophisticated omnichain governance aggregator designed to optimize the potential returns and governance capabilities of DeFi stakeholders, promoting financial security, stability and scalability. The platform offers the opportunity to combine governance authority and maximize rewards through the liquid staking of locked/vote escrow tokens from various chains and protocols.",
     "tokens": [
       "0x85b70D7e56BC8C4dDD7a5BB30E59b223DA383E34"
