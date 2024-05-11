@@ -74,5 +74,29 @@
     "github": "https://github.com/AraFiEco",
     "telegram": "https://t.me/AraFiEco",
     "website": "https://arafi.app"
+  },
+  {
+    "chainId": 1088,
+    "id": "VDAO",
+    "name": "VestaDAO",
+    "logo": "https://images.squarespace-cdn.com/content/v1/6627ffd28c26a441f417558a/bb8a9975-7fe9-4267-a762-53aec214f399/vdao+Logo+circle.png?format=500w",
+    "cover": "https://images.squarespace-cdn.com/content/v1/6627ffd28c26a441f417558a/4423b202-48a7-4a7a-a200-3fa8da0e13b5/vdao+banner1.png?format=2500w",
+    "tagline": "Community, News, Education, and Alpha",
+    "tags": [
+      "DAO",
+      "governance",
+      "community"
+    ],
+    "description": "VestaDAO addresses the core challenges within the Metis ecosystem through a multifaceted approach, focusing on reliable content, community-driven governance, innovative tokenomics, and educational initiatives. At the heart of our solution is a commitment to transparency, accessibility, and empowerment for our community members and the broader Layer 2 audience.",
+    "tokens": [
+      "0x38A7362Dab9b85Ba605Ff26e2BD82b328BDe99f1"
+    ],
+    "twitter": "https://twitter.com/VestaDAO",
+    "discord": "",
+    "docs": "https://vdao-1.gitbook.io/vestadao-docs/the-vdao-solution/introduction",
+    "blog": "",
+    "github": "",
+    "telegram": "https://t.me/VestaDAO",
+    "website": "https://www.vdao.online/"
   }
 ]
