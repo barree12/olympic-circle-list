@@ -75,7 +75,7 @@
     "telegram": "https://t.me/AraFiEco",
     "website": "https://arafi.app"
   },
-{
+  {
     "chainId": 1088,
     "id": "VDAO",
     "name": "VestaDAO",
@@ -98,5 +98,5 @@
     "github": "",
     "telegram": "https://t.me/VestaDAO",
     "website": "https://www.vdao.online/"
-  },
+  }
 ]
