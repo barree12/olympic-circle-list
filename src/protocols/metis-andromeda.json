@@ -98,5 +98,31 @@
     "github": "",
     "telegram": "https://t.me/VestaDAO",
     "website": "https://www.vdao.online/"
+  },
+ {
+    "chainId": 1088,
+    "id": "Monkex",
+    "name": "Monkex",
+    "logo": "https://raw.githubusercontent.com/netswap/tokens/master/assets/0x186573b175adf5801cf95fb06b232ccab123c6f4/logo.png",
+    "cover": "https://monkex.net/wp-content/uploads/2022/09/monkex_logo_pink_and_white-1536x375.png",
+    "tagline": "Metis Decentralized Autonomous Community",
+    "tags": [
+      "deflation",
+      "burn",
+      "meme"
+    ],
+    "description": "Decentralized Autonomous Community (DAC) empowered by the Metis L2.",
+    "tokens": [
+      "0x186573b175adf5801cf95fb06b232ccab123c6f4",
+      "0x8c5f5fac50a0a952b2fc084780fc04abc8201f0b"
+    ],
+    "twitter": "https://x.com/MonkexNFT/",
+    "discord": "http://club.monkex.net/",
+    "docs": "",
+    "blog": "",
+    "github": "",
+    "telegram": "https://t.me/MonkexNFT/",
+    "defillama": "",
+    "website": "https://monkex.net/"
   }
 ]
