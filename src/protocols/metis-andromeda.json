@@ -133,30 +133,6 @@
   },
   {
     "chainId": 1088,
-    "id": "artemis",
-    "name": "Artemis Finance",
-    "logo": "https://artemisfinance.io/assets/favicon.40d2eaa0.svg",
-    "cover": "https://artemisfinance.io/assets/logo-brand.752f5ea7.svg",
-    "banner": "https://app.hercules.exchange/images/olympic-banner.png",
-    "tagline": "LST for the first decentralized sequencer network",
-    "tags": [
-      "LST"
-    ],
-    "description": "Artemis Finance is a liquid staking protocol designed exclusively for Metis Decentralised Sequencer Pools. Users can stake their METIS token on Artemis Finance and receive the liquid token - artMETIS.",
-    "tokens": [
-      ""
-    ],
-    "twitter": "https://twitter.com/Artemisfinance",
-    "discord": "",
-    "docs": "https://docs.artemisfinance.io/",
-    "blog": "",
-    "github": "",
-    "telegram": "https://t.me/OfficialArtemisFinance",
-    "defillama": "",
-    "website": "https://artemisfinance.io/home"
-  },
-  {
-    "chainId": 1088,
     "id": "Monkex",
     "name": "Monkex",
     "logo": "https://raw.githubusercontent.com/netswap/tokens/master/assets/0x186573b175adf5801cf95fb06b232ccab123c6f4/logo.png",
