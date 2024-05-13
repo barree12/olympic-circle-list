@@ -14,8 +14,8 @@ To add your protocol to the Olympic Circle list, you should create your entry an
 
 - chainId (number)
 - id (string): must be unique
-- logo (string): url, small format square img, will be used in the project list, svg preferred
-- cover (string): url, large format img, will be used on the main protocol page as a cover image, svg preferred
+- logo (string): url, used on the page where all protocols are listed, svg preferred
+- cover (string): url, used for the area on the right of the protocol page, svg preferred
 - banner (string): url, large format img, will be used on the main protocol page as a banner image, png preferred
 - tagline (string): one short sentence
 - tags (array): up to 3
