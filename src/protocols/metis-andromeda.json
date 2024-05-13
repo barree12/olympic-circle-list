@@ -130,5 +130,24 @@
     "telegram": "https://t.me/zkerafinance",
     "defillama": "https://defillama.com/protocol/zkera-finance",
     "website": "https://zkera.fi/"
+  },
+  {
+    "chainId": 1088,
+    "id": "artemis",
+    "name": "Artemis Finance",
+    "logo": "https://artemisfinance.io/assets/favicon.40d2eaa0.svg",
+    "cover": "https://artemisfinance.io/assets/logo-brand.752f5ea7.svg",
+    "tagline": "LST for the first decentralized sequencer network",
+    "tags": ["LST"],
+    "description": "Artemis Finance is a liquid staking protocol designed exclusively for Metis Decentralised Sequencer Pools. Users can stake their METIS token on Artemis Finance and receive the liquid token - artMETIS.",
+    "tokens": [""],
+    "twitter": "https://twitter.com/Artemisfinance",
+    "discord": "",
+    "docs": "https://docs.artemisfinance.io/",
+    "blog": "",
+    "github": "",
+    "telegram": "https://t.me/OfficialArtemisFinance",
+    "defillama": "",
+    "website": "https://artemisfinance.io/home"
   }
 ]
