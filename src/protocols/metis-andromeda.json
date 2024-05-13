@@ -98,5 +98,33 @@
     "github": "",
     "telegram": "https://t.me/VestaDAO",
     "website": "https://www.vdao.online/"
+  },
+  {
+    "chainId": 1088,
+    "id": "zkEra",
+    "name": "zkEra Finance",
+    "logo": "https://app.zkera.fi/zkera.svg",
+    "cover": "",
+    "tagline": "Decentralized Perpetual Exchange",
+    "tags": 
+    [
+      "perpetual trading",
+      "defi",
+      "real yield"
+    ],
+    "description": "zkEra Finance is a decentralized spot and perpetual trading platform offering minimal swap charges and trades with zero price impact.",
+    "tokens": [
+      "0xdf020cBd1897133978C7FcDF04B07E69d8934Efc",
+      "0x410b570059d7f531e1A10EA37Cb1454B3C64d9F2",
+      "0x45cbe997cFef84B864D87e712E9334269D75B682"
+    ],
+    "twitter": "https://twitter.com/zkerafi",
+    "discord": "https://discord.com/invite/Bmtc466Rha",
+    "docs": "https://docs.zkera.fi/",
+    "blog": "https://medium.com/@zkera.fi",
+    "github": "",
+    "telegram": "https://t.me/zkerafinance",
+    "defillama": "https://defillama.com/protocol/zkera-finance",
+    "website": "https://zkera.fi/"
   }
 ]
