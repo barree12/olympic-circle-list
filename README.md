@@ -16,6 +16,7 @@ To add your protocol to the Olympic Circle list, you should create your entry an
 - id (string): must be unique
 - logo (string): url, small format square img, will be used in the project list, svg preferred
 - cover (string): url, large format img, will be used on the main protocol page as a cover image, svg preferred
+- banner (string): url, large format img, will be used on the main protocol page as a banner image, png preferred
 - tagline (string): one short sentence
 - tags (array): up to 3
 - description (string): up to 600 characters
