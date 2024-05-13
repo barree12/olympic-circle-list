@@ -5,6 +5,7 @@
     "name": "Athena",
     "logo": "https://www.athenafinance.io/athena_square.svg",
     "cover": "https://www.athenafinance.io/athena_banner.svg",
+    "banner": "https://app.hercules.exchange/images/olympic-banner.png",
     "tagline": "Metis Top Yield Booster",
     "tags": [
       "yield farming",
@@ -31,6 +32,7 @@
     "name": "Hummus",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/19625.png",
     "cover": "https://app.hummus.exchange/images/hummus-cover.svg",
+    "banner": "https://app.hercules.exchange/images/olympic-banner.png",
     "tagline": "Hummus Exchange",
     "tags": [
       "dex",
@@ -57,6 +59,7 @@
     "name": "AraFi",
     "logo": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/AraFi_C_W.svg",
     "cover": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/arafi_banner.svg",
+    "banner": "https://app.hercules.exchange/images/olympic-banner.png",
     "tagline": "Omnichain Governance Aggregator",
     "tags": [
       "omnichain",
@@ -81,6 +84,7 @@
     "name": "VestaDAO",
     "logo": "https://images.squarespace-cdn.com/content/v1/6627ffd28c26a441f417558a/bb8a9975-7fe9-4267-a762-53aec214f399/vdao+Logo+circle.png?format=500w",
     "cover": "https://images.squarespace-cdn.com/content/v1/6627ffd28c26a441f417558a/4423b202-48a7-4a7a-a200-3fa8da0e13b5/vdao+banner1.png?format=2500w",
+    "banner": "https://app.hercules.exchange/images/olympic-banner.png",
     "tagline": "Community, News, Education, and Alpha",
     "tags": [
       "DAO",
@@ -98,6 +102,34 @@
     "github": "",
     "telegram": "https://t.me/VestaDAO",
     "website": "https://www.vdao.online/"
+  },
+  {
+    "chainId": 1088,
+    "id": "zkEra",
+    "name": "zkEra Finance",
+    "logo": "https://app.zkera.fi/zkera.svg",
+    "cover": "",
+    "tagline": "Decentralized Perpetual Exchange",
+    "tags": 
+    [
+      "perpetual trading",
+      "defi",
+      "real yield"
+    ],
+    "description": "zkEra Finance is a decentralized spot and perpetual trading platform offering minimal swap charges and trades with zero price impact.",
+    "tokens": [
+      "0xdf020cBd1897133978C7FcDF04B07E69d8934Efc",
+      "0x410b570059d7f531e1A10EA37Cb1454B3C64d9F2",
+      "0x45cbe997cFef84B864D87e712E9334269D75B682"
+    ],
+    "twitter": "https://twitter.com/zkerafi",
+    "discord": "https://discord.com/invite/Bmtc466Rha",
+    "docs": "https://docs.zkera.fi/",
+    "blog": "https://medium.com/@zkera.fi",
+    "github": "",
+    "telegram": "https://t.me/zkerafinance",
+    "defillama": "https://defillama.com/protocol/zkera-finance",
+    "website": "https://zkera.fi/"
   },
   {
     "chainId": 1088,
