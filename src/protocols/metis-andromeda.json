@@ -109,9 +109,9 @@
     "name": "zkEra Finance",
     "logo": "https://app.zkera.fi/zkera.svg",
     "cover": "",
+    "banner": "https://app.hercules.exchange/images/olympic-banner.png",
     "tagline": "Decentralized Perpetual Exchange",
-    "tags": 
-    [
+    "tags": [
       "perpetual trading",
       "defi",
       "real yield"
@@ -137,10 +137,15 @@
     "name": "Artemis Finance",
     "logo": "https://artemisfinance.io/assets/favicon.40d2eaa0.svg",
     "cover": "https://artemisfinance.io/assets/logo-brand.752f5ea7.svg",
+    "banner": "https://app.hercules.exchange/images/olympic-banner.png",
     "tagline": "LST for the first decentralized sequencer network",
-    "tags": ["LST"],
+    "tags": [
+      "LST"
+    ],
     "description": "Artemis Finance is a liquid staking protocol designed exclusively for Metis Decentralised Sequencer Pools. Users can stake their METIS token on Artemis Finance and receive the liquid token - artMETIS.",
-    "tokens": [""],
+    "tokens": [
+      ""
+    ],
     "twitter": "https://twitter.com/Artemisfinance",
     "discord": "",
     "docs": "https://docs.artemisfinance.io/",
@@ -156,6 +161,7 @@
     "name": "Monkex",
     "logo": "https://raw.githubusercontent.com/netswap/tokens/master/assets/0x186573b175adf5801cf95fb06b232ccab123c6f4/logo.png",
     "cover": "https://monkex.net/wp-content/uploads/2022/09/monkex_logo_pink_and_white-1536x375.png",
+    "banner": "https://app.hercules.exchange/images/olympic-banner.png",
     "tagline": "Metis Decentralized Autonomous Community",
     "tags": [
       "deflation",
