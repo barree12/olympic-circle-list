@@ -108,8 +108,8 @@
     "id": "zkEra",
     "name": "zkEra Finance",
     "logo": "https://app.zkera.fi/zkera.svg",
-    "cover": "https://app.zkera.fi/zkera.svg",
-    "banner": "https://app.zkera.fi/zkera.svg",
+    "cover": "",
+    "banner": "https://app.hercules.exchange/images/olympic-banner.png",
     "tagline": "Decentralized Perpetual Exchange",
     "tags": [
       "perpetual trading",
