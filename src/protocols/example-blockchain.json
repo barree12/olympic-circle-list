@@ -5,10 +5,18 @@
     "name": "Hercules DEX",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/22949.png",
     "cover": "https://camelot.exchange/img/knight-hero.svg",
+    "banner": "https://app.hercules.exchange/images/olympic-banner.png",
     "tagline": "Metis Champion DEX",
-    "tags": ["dex", "DAO", "yield farming"],
+    "tags": [
+      "dex",
+      "DAO",
+      "yield farming"
+    ],
     "description": "Hercules is a community-first, capital efficient and flexible DEX developed with multiple tools to support the next generation of builders who look for sustainable liquidity in the Metis network.",
-    "tokens": ["", ""],
+    "tokens": [
+      "",
+      ""
+    ],
     "twitter": "https://twitter.com/TheHerculesDEX",
     "discord": "https://discord.gg/J3MNwKKaqt",
     "docs": "https://docs.hercules.exchange",
