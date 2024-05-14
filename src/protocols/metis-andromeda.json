@@ -143,9 +143,7 @@
       "LST"
     ],
     "description": "Artemis Finance is a liquid staking protocol designed exclusively for Metis Decentralised Sequencer Pools. Users can stake their METIS token on Artemis Finance and receive the liquid token - artMETIS.",
-    "tokens": [
-      ""
-    ],
+    "tokens": [],
     "twitter": "https://twitter.com/Artemisfinance",
     "discord": "",
     "docs": "https://docs.artemisfinance.io/",
