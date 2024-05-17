@@ -179,5 +179,24 @@
     "telegram": "https://t.me/MonkexNFT/",
     "defillama": "",
     "website": "https://monkex.net/"
+  },
+  {
+    "chainId": 1088,
+    "id": "Wagmi",
+    "name": "WAGMI",
+    "logo": "https://docs.wagmi.com/~gitbook/image?url=https%3A%2F%2F587341777-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FB2LIlYKuWe8T1B5r4daq%252Fuploads%252FqefafpBtqh2JNmseIfsT%252FFavicon.png%3Falt%3Dmedia%26token%3Dabf4ce78-5d28-429b-bd3c-0dc9539360bb&width=768&dpr=1&quality=100&sign=e332d9c2318dff79c483cc0c8ae7a303c02e71f17a91c236b0a0833c41f6f3e3",
+    "cover": "https://raw.githubusercontent.com/RealWagmi/assets/main/cover2.png",
+    "tagline": "Decentralized Exchange",
+    "tags": ["swap", "real yield", "leverage"],
+    "description": "The WAGMI protocol is a decentralized exchange with limited TVL, active liquidity management, GMI mechanics, and leverage.",
+    "tokens": ["0xaf20f5f19698f1D19351028cd7103B63D30DE7d7", "0x5fb3983adc4dCc82A610a91D2e329F6401352558"],
+    "twitter": "https://twitter.com/PopsicleFinance",
+    "discord": "https://discord.com/invite/yegjFrMm6H",
+    "docs": "https://docs.wagmi.com/",
+    "blog": "https://popsiclefinance.medium.com/",
+    "github": "",
+    "telegram": "https://t.me/realwagmi",
+    "defillama": "https://defillama.com/protocol/wagmi#information",
+    "website": "https://wagmi.com/"
   }
 ]
