@@ -1,6 +1,34 @@
 [
   {
     "chainId": 1088,
+    "id": "Alchemix",
+    "name": "Alchemix",
+    "logo": "https://alchemix.fi/images/icons/alcx_thin.svg",
+    "cover": "https://tinyurl.com/alchemixbanner",
+    "banner": "https://app.hercules.exchange/images/olympic-banner.png",
+    "tagline": "Self-Repaying Loans",
+    "tags": [
+      "loans",
+      "defi",
+      "synthetics"
+    ],
+    "description": "Alchemix is a financial platform that offers self-repaying loans, allowing users to leverage various tokens without the risk of liquidation.",
+    "tokens": [
+      "0x303241e2B3b4aeD0bb0F8623e7442368FED8Faf3",
+      "0x0E17934B9735D479B2388347fAeF0F4e58b9cc06",
+	  ""
+    ],
+    "twitter": "https://twitter.com/AlchemixFi",
+    "discord": "https://discord.com/invite/alchemix",
+    "docs": "https://alchemix-finance.gitbook.io/user-docs/",
+    "blog": "https://alchemixfi.medium.com",
+    "github": "https://github.com/alchemix-finance",
+    "telegram": "",
+    "defillama": "https://defillama.com/protocol/alchemix",
+    "website": "https://alchemix.fi/"
+  },
+  {
+    "chainId": 1088,
     "id": "Athena",
     "name": "Athena",
     "logo": "https://www.athenafinance.io/athena_square.svg",
